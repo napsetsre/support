@@ -7,7 +7,7 @@ Log onto Red Hat Support or have your Red Hat account representative to create y
 
 1. Create a case
 2. Select a product
-3. Describe your issue'
+3. Describe your issue
 4. Case management
 5. Case information
 6. Execute ```shell oc adm must-gather > _some_text_filename```
