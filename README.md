@@ -3,13 +3,19 @@ Log onto Red Hat Support or have your Red Hat account representative to create y
 
 [https://access.redhat.com/support]()
 
-## [Open A New Case](https://access.redhat.com/support/cases/new)
+## [Open New Case](https://access.redhat.com/support/cases/new)
 
-1. Follow the support wizard to open a new support case
-2. Capture the output of the **oc adm must-gather** CLI command
-3. Attatch the **must-gather** output to the support case
+1. Create a case
+2. Select a product
+3. Describe your issue'
+4. Case management
+5. Case information
+6. Execute **oc adm must-gather > must_gathter_output.txt**
+7. Upload must_gather_output.txt
+8. Submit case
 
-> Must Gather Command Documentation 
->> - [OpenShift 4.8](https://docs.openshift.com/container-platform/4.8/support/gathering-cluster-data.html)
->> - [OpenShift 4.9](https://docs.openshift.com/container-platform/4.9/support/gathering-cluster-data.html)
->> - [OpenShift 4.10](https://docs.openshift.com/container-platform/4.10/support/gathering-cluster-data.html)
+## References
+Must Gather Command Documentation 
+- [OpenShift 4.8](https://docs.openshift.com/container-platform/4.8/support/gathering-cluster-data.html)
+- [OpenShift 4.9](https://docs.openshift.com/container-platform/4.9/support/gathering-cluster-data.html)
+- [OpenShift 4.10](https://docs.openshift.com/container-platform/4.10/support/gathering-cluster-data.html)
