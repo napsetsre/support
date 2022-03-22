@@ -10,8 +10,8 @@ Log onto Red Hat Support or have your Red Hat account representative to create y
 3. Describe your issue'
 4. Case management
 5. Case information
-6. Execute **oc adm must-gather > must_gathter_output.txt**
-7. Upload must_gather_output.txt
+6. Execute ```shell oc adm must-gather > _some_text_filename```
+7. Upload some_text_filename using the upload widget
 8. Submit case
 
 ## References
